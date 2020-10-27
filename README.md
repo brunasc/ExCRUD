@@ -1,2 +1,2 @@
 # ExCRUD
-Exercício CRUD em SQL Server 
+Exercício CRUD em SQL Server :computer:
